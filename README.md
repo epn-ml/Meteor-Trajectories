@@ -9,7 +9,7 @@ People involved in the project:
 Which facility? The AOP double station network
 
 
-In July 2005, AOP (then Armagh Observatory) began operating a meteor detector system (‘Armagh Station’, see Atreya & Christou, 2008 for a desciption of the station setup).The system, which operated continuously until Dec 2019, consisted of three Watec WAT−902DM2s video cameras, hereafter referred to as “Cam−1”, “Cam−2” and “Cam−3”. Cam−1 was equipped with medium angle (~50 deg) optics while Cam−2 and Cam−3 have wide angle (~90 deg) optics. Cam−1 carried out simultaneous observations with a similar camera (“Cam−4”, FOV~50 deg) set up by amateur astronomer Robert Cobain in the town of Bangor, Northern Ireland (“Bangor Station”)    some ENE of Armagh, thus forming a double station network with a baseline of 73 km.
+In July 2005, AOP (then Armagh Observatory) began operating a meteor detector system (‘Armagh Station’, see Atreya & Christou, 2008 for a desciption of the station setup).The system, which operated continuously until Dec 2019, consisted of three Watec WAT−902DM2s video cameras, hereafter referred to as “Cam−1”, “Cam−2” and “Cam−3”. Cam−1 was equipped with medium angle (~50 deg) optics while Cam−2 and Cam−3 have wide angle (approx. 90 deg) optics. Cam−1 carried out simultaneous observations with a similar camera (“Cam−4”, FOV~50 deg) set up by amateur astronomer Robert Cobain in the town of Bangor, Northern Ireland (“Bangor Station”)    some ENE of Armagh, thus forming a double station network with a baseline of 73 km.
 
 The exact locations of the two stations were 
 
